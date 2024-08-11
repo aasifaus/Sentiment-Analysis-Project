@@ -17,7 +17,7 @@ This project is part of the ISY503 course and focuses on building a sentiment an
 First, clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-project.git
+git clone https://github.com/aasifaus/Sentiment-Analysis-Project
 cd sentiment-analysis-project
 
 ### 2: Create a Virtual Environment
