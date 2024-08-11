@@ -20,8 +20,7 @@ First, clone this repository to your local machine using Git:
 git clone https://github.com/yourusername/sentiment-analysis-project.git
 cd sentiment-analysis-project
 
-
-### 2. Create a Virtual Environment (Optional but Recommended)
+**Step 2: Create a Virtual Environment**
 It's recommended to use a virtual environment to manage dependencies:
 
 # Create a virtual environment
@@ -33,12 +32,12 @@ venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
 
-### 3. Install Dependencies
+**Step 3: Install Dependencies**:
 Install the required Python packages using pip:
 
 pip install -r requirements.txt
 
-### 4. Run the Web Application
+**Step 4: Run the Web Application**:
 Start the Flask web server to run the web application:
 
 python app.py
