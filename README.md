@@ -20,6 +20,7 @@ First, clone this repository to your local machine using Git:
 git clone https://github.com/yourusername/sentiment-analysis-project.git
 cd sentiment-analysis-project
 
+
 ### 2. Create a Virtual Environment (Optional but Recommended)
 It's recommended to use a virtual environment to manage dependencies:
 
